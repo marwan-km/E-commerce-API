@@ -1,0 +1,36 @@
+MIT License
+
+Copyright (c) 2025 Marwane Kiram
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+Conditions:
+1. **Inclusion of License**: Every copy of the software, including modified or unmodified versions, must include this license. This allows the user to know they are granted permission under the terms of this license.
+
+2. **Redistribution**: You can distribute copies of the software, modified or unmodified. However, the software must not be sold as proprietary software. If you distribute it in source code form, you must include this license.
+
+3. **Modifications**: You are allowed to modify the software. However, you should clearly mark any changes that you have made, so users are aware of the difference between the modified software and the original. This can help prevent confusion or misrepresentation.
+
+4. **Attribution**: Any distribution or modification must acknowledge the original author(s) and provide the source for the software (typically a URL where the software is available).
+
+5. **No Warranty**: The software is provided "as is," without any warranty of any kind, either express or implied. In no event shall the authors or copyright holders be held liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use of the software.
+
+6. **Patent License**: If you modify or distribute the software, you also provide a license for any patents you may have related to your modifications.
+
+7. **No Guarantee of Support**: The authors are not obligated to provide any support, updates, or maintenance for the software. This includes bug fixes, patches, or technical support.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
