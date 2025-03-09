@@ -53,14 +53,6 @@ This is a RESTful API for an E-commerce application. It supports features like u
    npm start
    ```
 
-## API Documentation
-
-- **GET** `/api/v1/products` - Get all products
-- **GET** `/api/v1/products/:id` - Get single product by ID
-- **POST** `/api/v1/products` - Create new product (Admin only)
-- **GET** `/api/v1/reviews` - Get all reviews
-- **POST** `/api/v1/reviews` - Create a review (Authenticated users)
-
 ## Deployment
 
 #### **Deploy your app**
